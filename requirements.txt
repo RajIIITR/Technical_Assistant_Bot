@@ -1,0 +1,15 @@
+langchain
+pymongo
+langchain-core
+langchain-community
+fastapi
+uvicorn
+typing
+python-dotenv
+pydantic
+streamlit
+requests
+langchain-groq
+python-dotenv
+python-multipart
+pydantic[email]
